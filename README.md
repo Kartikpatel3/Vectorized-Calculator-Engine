@@ -7,7 +7,9 @@ mathematical operations on **1D, 2D, and 3D arrays** and compares the performanc
 This project is useful for learning **NumPy optimization**, **array operations**,
 and **performance benchmarking**.
 
----
+## Installation
+```bash```
+pip install -r requirements.txt
 
 ## 🚀 Features
 
