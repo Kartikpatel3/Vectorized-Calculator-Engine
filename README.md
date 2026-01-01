@@ -83,17 +83,17 @@ Stores performance comparison.
 
 ## 📁 Project Structure
 
-```textVectorized-Calculator-Engine/```
-```text│```
-```text├── engine.py```
-```text├── operations.py```
-```text├── performance.py```
-```text├── reports/```
-```text│   ├── performance_report.csv```
-```text│   └── result_report.csv```
-```text├── requirements.txt```
-```text├── README.md```
-```text└── .gitignore```
+Vectorized-Calculator-Engine/
+│
+├── engine.py
+├── operations.py
+├── performance.py
+├── reports/
+│   ├── performance_report.csv
+│   └── result_report.csv
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 
 ---
