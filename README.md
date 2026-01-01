@@ -7,9 +7,9 @@ mathematical operations on **1D, 2D, and 3D arrays** and compares the performanc
 This project is useful for learning **NumPy optimization**, **array operations**,
 and **performance benchmarking**.
 
-## Installation
-```bash
-pip install -r requirements.txt
+## ⚙️ Installation
+
+```bash pip install -r requirements.txt```
 
 ## 🚀 Features
 
@@ -83,18 +83,18 @@ Stores performance comparison.
 
 ## 📁 Project Structure
 
-```text
-Vectorized-Calculator-Engine/
-│
-├── engine.py
-├── operations.py
-├── performance.py
-├── reports/
-│   ├── performance_report.csv
-│   └── result_report.csv
-├── requirements.txt
-├── README.md
-└── .gitignore
+```textVectorized-Calculator-Engine/```
+```text│```
+```text├── engine.py```
+```text├── operations.py```
+```text├── performance.py```
+```text├── reports/```
+```text│   ├── performance_report.csv```
+```text│   └── result_report.csv```
+```text├── requirements.txt```
+```text├── README.md```
+```text└── .gitignore```
+
 
 ---
 
@@ -105,8 +105,7 @@ Vectorized-Calculator-Engine/
 
 Run the calculator using:
 
-```bash
-python engine.py
+```bash python engine.py```
 
 ## 📸 Screenshots
 
