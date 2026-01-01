@@ -116,4 +116,4 @@ Run the calculator using:
 ![Vector Output](screenshots/vector_addition.png)
 
 ### Performance Report
-![Performance Report](screenshorts/performance_report_view (2).png)
+![Performance Report](Screenshots/Screenshot_2026-01-01-12-18-20-75_948cd9899890cbd5c2798760b2b95377.jpg)
