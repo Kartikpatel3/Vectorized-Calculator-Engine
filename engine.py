@@ -9,7 +9,7 @@ def main():
         print("<<<<< Vectorized Calculator Engine >>>>>\n\n1. Mathematical Operations \n2. Advance Operations \n3. Reports Manager\n4. Exit ")
         user_input = input("ENTER YOUR KEY >> ")
         if user_input == "1":
-            print("\n<<<<< Mathematical Operations >>>>>\n\n1. Vector Addition \n2. Vector Subtraction \n3. Element-Wise Multiplication \n4. Element-Wise Multiplication \n5. Menu")
+            print("\n<<<<< Mathematical Operations >>>>>\n\n1. Vector Addition \n2. Vector Subtraction \n3. Element-Wise Multiplication \n4. Element-Wise Division \n5. Menu")
             user_input = input("ENTER YOUR KEY >> ")
             if user_input == "1":
                 user_dim = input("Enter Your Dimentions of Array = ")
@@ -129,3 +129,4 @@ def main():
             continue
         
 main()
+
