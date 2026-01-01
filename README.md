@@ -8,8 +8,8 @@ This project is useful for learning **NumPy optimization**, **array operations**
 and **performance benchmarking**.
 
 ## Installation
-```bash```
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt```
 
 ## 🚀 Features
 
@@ -83,7 +83,7 @@ Stores performance comparison.
 
 ## 📁 Project Structure
 
-```text```
+```text
 Vectorized-Calculator-Engine/
 ├── engine.py
 ├── operations.py
@@ -93,7 +93,7 @@ Vectorized-Calculator-Engine/
 │   └── result_report.csv
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+└── .gitignore```
 
 ---
 
@@ -103,8 +103,8 @@ Vectorized-Calculator-Engine/
 
 Run the calculator using:
 
-```bash```
-python engine.py
+```bash
+python engine.py```
 
 ## 📸 Screenshots
 
