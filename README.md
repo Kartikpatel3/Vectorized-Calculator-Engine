@@ -82,3 +82,20 @@ Stores performance comparison.
 ---
 
 ## 🖥 Example Usage
+## ▶️ Usage
+
+Run the calculator using:
+
+```bash```
+python engine.py
+
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Vector Operation Output
+![Vector Output](screenshots/vector_addition.png)
+
+### Performance Report
+![Performance Report](screenshots/performance_report.png)
