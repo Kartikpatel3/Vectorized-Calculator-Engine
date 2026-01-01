@@ -84,23 +84,23 @@ Stores performance comparison.
 ## 📁 Project Structure
 
 Vectorized-Calculator-Engine/
-│
+
 ├── engine.py
-
+│
 ├── operations.py
-
+│
 ├── performance.py
-
+│
 ├── reports/
-
-│   ├── performance_report.csv
-
-│   └── result_report.csv
-
+│
+│      ├── performance_report.csv
+│.     │
+│      └── result_report.csv
+│
 ├── requirements.txt
-
+│
 ├── README.md
-
+│
 └── .gitignore
 
 
