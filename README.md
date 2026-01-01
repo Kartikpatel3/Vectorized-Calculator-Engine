@@ -110,10 +110,10 @@ Run the calculator using:
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/menu.png)
+![Main Menu](Screenshots/Screenshot_2026-01-01-12-18-55-72_948cd9899890cbd5c2798760b2b95377.jpg)
 
 ### Vector Operation Output
-![Vector Output](screenshots/vector_addition.png)
+![Vector Output](Screenshots/Screenshot_2026-01-01-12-19-06-88_948cd9899890cbd5c2798760b2b95377.jpg)
 
 ### Performance Report
-![Performance Report](Screenshots/Screenshot_2026-01-01-12-18-20-75_948cd9899890cbd5c2798760b2b95377.jpg)
+![Performance Report](Screenshot_2026-01-01-13-25-13-85_948cd9899890cbd5c2798760b2b95377.jpg)
