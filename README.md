@@ -9,7 +9,7 @@ and **performance benchmarking**.
 
 ## Installation
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 ## 🚀 Features
 
@@ -85,6 +85,7 @@ Stores performance comparison.
 
 ```text
 Vectorized-Calculator-Engine/
+│
 ├── engine.py
 ├── operations.py
 ├── performance.py
@@ -93,18 +94,19 @@ Vectorized-Calculator-Engine/
 │   └── result_report.csv
 ├── requirements.txt
 ├── README.md
-└── .gitignore```
+└── .gitignore
 
 ---
 
 ## 🖥 Example
 ...soon
+
 ## ▶️ Usage
 
 Run the calculator using:
 
 ```bash
-python engine.py```
+python engine.py
 
 ## 📸 Screenshots
 
