@@ -184,7 +184,7 @@ class vectorized_py:
                 result = 0
                 for i,e in zip(first, second):
                     result += i * e
-                    end = time.perf_counter()
+                end = time.perf_counter()
                 self.save_Native_output(first, second, result)
                 return end - start
             elif user_dim == "2d":
@@ -198,7 +198,7 @@ class vectorized_py:
                             sum_product += i * e
                         row_result.append(sum_product)
                     result.append(row_result)
-                    end = time.perf_counter()
+                end = time.perf_counter()
                 self.save_Native_output(first, second, result)
                 return end - start
             elif user_dim == "3d":
@@ -660,4 +660,5 @@ class vectorized_np:
         start = time.perf_counter()
         result = np.transpose(array)
         end = time.perf_counter()
+
         return end - start
